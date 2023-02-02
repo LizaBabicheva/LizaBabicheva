@@ -40,9 +40,11 @@ Here are some ideas to get you started:
   <br>
   <div>
 
+[![Liza's GitHub stats](https://github-readme-stats.vercel.app/api?username=lizababicheva)](https://github.com/lizababicheva/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LizaBabicheva&layout=compact)](https://github.com/lizababicheva)
 
-[![Codewars](https://github.r2v.ch/codewars?user=Lizazavr&stroke=%23BB432C)]()
+[![Codewars](https://www.codewars.com/users/Lizazavr/badges/large)](https://www.codewars.com/users/Lizazavr)
 
   </div>
 </details>
