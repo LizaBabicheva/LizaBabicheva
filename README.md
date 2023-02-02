@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...  
   
 
-### 📠 Связаться со мной:
+#### 📠 Связаться со мной:
 <div>
-  <a href="https://t.me/lizazavr"><img style="margin:0.5rem" src="https://cdn-icons-png.flaticon.com/128/5968/5968804.png" alt="Liza Babicheva | Telegram" height="30"></a>
-  <a href="mailto:lizavetababicheva@gmaol.com"><img style="margin:0.5rem" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Liza Babicheva | Gmail" height="30"></a>
+  <a href="https://t.me/lizazavr"><img style="margin:0.5rem" src="https://cdn-icons-png.flaticon.com/128/5968/5968804.png" alt="Liza Babicheva | Telegram" height="30"></a>&nbsp;
+  <a href="mailto:lizavetababicheva@gmaol.com"><img style="margin:0.5rem" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Liza Babicheva | Gmail" height="30"></a>&nbsp;
   <a href="https://www.instagram.com/lizazavr/"><img style="margin:0.5rem" src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png" alt="Liza Babicheva | Instagram" height="30"></a>
 </div>  
 
