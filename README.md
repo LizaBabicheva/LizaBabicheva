@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div>
   <a href="https://t.me/lizazavr"><img style="margin:0.5rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png?20220101141644" alt="Liza Babicheva | Telegram" height="30"></a>&nbsp;
   <a href="mailto:lizavetababicheva@gmaol.com"><img style="margin:0.5rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="Liza Babicheva | Gmail" height="30"></a>&nbsp;
-  <a href="https://www.instagram.com/lizazavr/"><img style="margin:0.5rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1024px-Instagram.svg.png?20170725025253" alt="Liza Babicheva | Instagram" height="30"></a>
+  <a href="https://www.instagram.com/lizazavr/"><img style="margin:0.5rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1024px-Instagram.svg.png?20170725025253" alt="Liza Babicheva | Instagram" height="25"></a>
 </div>
 
 
